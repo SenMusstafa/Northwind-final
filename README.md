@@ -23,14 +23,14 @@ Follow the steps below to run the project on your local machine.
 2. Navigate to the project directory:
 
     ```bash
-    cd CrmProject
+    cd Northwind-final
     ```
 
 3. Compile and run the project:
 
     ```bash
     mvn clean install
-    java -jar target/crm-project.jar
+    java -jar target/northwind-final.jar
     ```
 
     These steps will resolve project dependencies and start the application.
